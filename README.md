@@ -1,4 +1,4 @@
-#### **Simple Guild Stats Bot for Discord made in Python****Simple Guild Stats Bot for Discord made in Python**
+#### **Simple Guild Stats Bot for Discord made in Python**
 Bot is working with sqlite database. Each db row has its own **guild_id** so bot can work on multiple servers without any issues.
 
 
